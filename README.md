@@ -1,7 +1,7 @@
 # Carolyn's Notes
 
 ## Table of Contents
-* [Week 1](/Week_1)
+* [Week 1](/Users/carolynscobie/lighthouse-web-notes/Week_1)
   * [Day 1](/Week_1/Day_1)
 
 ## Summary
